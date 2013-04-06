@@ -39,7 +39,7 @@ $strText = "i'm a lasagna hog";
 
 $strTmp = explode(" ", $strText);
 $strTmp = array_reverse($strTmp);
-$strTmp = join("",$strTmp);
+$strTmp = join(" ",$strTmp);
 
 echo($strTmp);
 ```
