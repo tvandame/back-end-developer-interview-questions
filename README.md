@@ -24,6 +24,7 @@ you more about the person's capabilities than a straight answer would.
 
 * What version control systems have you used (Git, SVN etc.)?
 * What is your preferred development environment? (OS, Editor, Browsers, Tools etc.)
+* Explain how Object inheritance works. [Answer](http://php.net/manual/en/language.oop5.inheritance.php)
 
 ## PHP Specific Questions
 
