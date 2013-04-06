@@ -41,3 +41,8 @@ you more about the person's capabilities than a straight answer would.
 ## Server Specific Qustions
 * Linux/Unix
 * Microsoft
+
+## Webservice Specific Qustions
+* JSON
+* XML
+* SOAP
