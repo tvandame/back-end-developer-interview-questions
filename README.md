@@ -40,6 +40,8 @@ $strText = "i'm a lasagna hog";
 $strTmp = str_split($strText);
 $strTmp = array_reverse($strTmp);
 $strTmp = join("",$strTmp);
+
+echo $strTmp;
 ```
 Question: What value is returned from the above statement? 
 **Answer: "goh angasal a m'i"**
@@ -52,6 +54,29 @@ array_push($array, 2);
 ```
 Question: What is the value of count($array);
 **Answer: 2**
+
+```PHP
+$foo = "Hello";
+
+function alert_a() {
+  global $foo;
+	
+	$bar = " World";
+	
+	echo ($foo . $bar);
+}
+
+function alert_b() {	
+	$bar = " World";
+	
+	echo ($foo . $bar);
+}
+
+alert_a();
+alert_b();
+```
+Question: Question: What is the outcome of the two alerts above?
+**Answer: alert_a() = Hello World, alert_b() = E_NOTICE : type 8 -- Undefined variable: foo -- at line 15 World**
 
 ## ASP .NET Specific Questions
 
