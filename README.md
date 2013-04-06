@@ -37,9 +37,9 @@ Question: What value is returned from the above statement?
 ```php
 $strText = "i'm a lasagna hog";
 
-$strTmp = explode(" ", $strText);
+$strTmp = str_split($strText);
 $strTmp = array_reverse($strTmp);
-$strTmp = join(" ",$strTmp);
+$strTmp = join("",$strTmp);
 
 echo($strTmp);
 ```
