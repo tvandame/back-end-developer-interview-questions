@@ -25,11 +25,16 @@ you more about the person's capabilities than a straight answer would.
 * What version control systems have you used (Git, SVN etc.)?
 
 ## PHP
+
 ### Language
+
 ### MYSQL - [_Offical Documentation_](http://dev.mysql.com/doc/)
+
 ### PostgreSQL - [_Offical Documentation_](http://www.postgresql.org/docs/manuals/)
 
 ## ASP .NET
+
 ### Language
 * C#
+
 ### SQL Server - [_Offical Documentation_](http://msdn.microsoft.com/en-us/library/bb545450.aspx)
