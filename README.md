@@ -23,3 +23,12 @@ you more about the person's capabilities than a straight answer would.
 ##General Questions:
 
 * What version control systems have you used (Git, SVN etc.)?
+
+## PHP
+
+### MYSQL
+
+
+## ASP .NET
+
+### SQL Server
