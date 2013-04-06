@@ -1,4 +1,4 @@
-back-end-developer-interview-questions
+Back-End-Developer-Interview-Questions
 ======================================
 
 A list of helpful back-end related questions you can use to interview potential candidates. 
@@ -8,7 +8,7 @@ Inspired by the git-repo: https://github.com/darcyclarke/Front-end-Developer-Int
 #Back-end Developer Interview Questions
 
 |Version    |Detail          |
-|***********|****************|
+|-----------|----------------|
 |1.0.0      |Initial Draft   |
 
 This repo contains a number of back-end interview questions that can be used when vetting potential candidates. 
