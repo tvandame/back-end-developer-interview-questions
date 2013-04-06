@@ -38,8 +38,7 @@ Question: What value is returned from the above statement?
 "i'm a lasagna hog".split("").reverse().join("");
 ```
 Question: What value is returned from the above statement? 
-**Answer: "goh angasal a m'i"** 
-````
+**Answer: "goh angasal a m'i"**
 
 ## ASP .NET Specific Questions
 
