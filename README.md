@@ -46,6 +46,13 @@ echo($strTmp);
 Question: What value is returned from the above statement? 
 **Answer: "goh angasal a m'i"**
 
+```PHP
+( window.foo || ( window.foo = "bar" ) );
+```
+Question: What is the value of window.foo? 
+**Answer: "bar"** 
+only if window.foo was falsey otherwise it will retain its value.
+
 ## ASP .NET Specific Questions
 
 ### Language
