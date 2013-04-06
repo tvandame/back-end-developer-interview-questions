@@ -5,8 +5,6 @@ A list of helpful back-end related questions you can use to interview potential 
 Inspired by the git-repo: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions.git and
 [Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish)) 
 
-#Back-end Developer Interview Questions
-
 |Version    |Detail          |
 |-----------|----------------|
 |1.0.0      |Initial Draft   |
