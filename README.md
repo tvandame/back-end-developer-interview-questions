@@ -23,8 +23,13 @@ you more about the person's capabilities than a straight answer would.
 ##General Questions:
 
 * What version control systems have you used (Git, SVN etc.)?
+* What is your preferred development environment? (OS, Editor, Browsers, Tools etc.)
 
 ## PHP Specific Questions
+
+## PHP Code Questions:
+```php
+```
 
 ## ASP .NET Specific Questions
 
