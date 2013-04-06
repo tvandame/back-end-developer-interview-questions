@@ -40,18 +40,18 @@ $strText = "i'm a lasagna hog";
 $strTmp = str_split($strText);
 $strTmp = array_reverse($strTmp);
 $strTmp = join("",$strTmp);
-
-echo($strTmp);
 ```
 Question: What value is returned from the above statement? 
 **Answer: "goh angasal a m'i"**
 
 ```PHP
-( window.foo || ( window.foo = "bar" ) );
+$array = array();
+
+array_push($array, 1);
+array_push($array, 2);
 ```
-Question: What is the value of window.foo? 
-**Answer: "bar"** 
-only if window.foo was falsey otherwise it will retain its value.
+Question: What is the value of count($array);
+**Answer: `2`
 
 ## ASP .NET Specific Questions
 
