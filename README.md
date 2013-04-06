@@ -24,9 +24,7 @@ you more about the person's capabilities than a straight answer would.
 
 * What version control systems have you used (Git, SVN etc.)?
 
-## PHP
-
-### Language
+## PHP Specific Questions
 
 ### MYSQL - [_Offical Documentation_](http://dev.mysql.com/doc/)
 
@@ -35,6 +33,6 @@ you more about the person's capabilities than a straight answer would.
 ## ASP .NET
 
 ### Language
-* C#
+* C# Specific Questions
 
 ### SQL Server - [_Offical Documentation_](http://msdn.microsoft.com/en-us/library/bb545450.aspx)
