@@ -26,13 +26,7 @@ you more about the person's capabilities than a straight answer would.
 
 ## PHP Specific Questions
 
-### MYSQL - [_Offical Documentation_](http://dev.mysql.com/doc/)
-
-### PostgreSQL - [_Offical Documentation_](http://www.postgresql.org/docs/manuals/)
-
 ## ASP .NET Specific Questions
 
 ### Language
-* C# Specific Questions
-
-### SQL Server - [_Offical Documentation_](http://msdn.microsoft.com/en-us/library/bb545450.aspx)
+* C#
