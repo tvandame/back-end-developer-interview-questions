@@ -19,7 +19,7 @@ you more about the person's capabilities than a straight answer would.
 
 ##Original Contributors
 
-1. [@travisvandame](twitter.com/travisvandame) - [http://www.leandertechnologies.com)
+1. [@travisvandame](twitter.com/travisvandame) - [http://www.leandertechnologies.com](http://www.leadertechnologies.com)
 
 ##General Questions:
 
