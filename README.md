@@ -2,7 +2,8 @@ back-end-developer-interview-questions
 ======================================
 
 A list of helpful back-end related questions you can use to interview potential candidates. 
-Inspired by the git-repo: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions.git
+Inspired by the git-repo: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions.git and
+[Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish)) 
 
 #Back-end Developer Interview Questions
 
@@ -19,8 +20,8 @@ you more about the person's capabilities than a straight answer would.
 
 ##Original Contributors
 
-1. [@travisvandame](http://www.twitter.com/travisvandame) - [http://www.leandertechnologies.com](http://www.leandertechnologies.com)
+1. [@travisvandame](http://www.twitter.com/travisvandame) - http://www.leandertechnologies.com
 
 ##General Questions:
 
-1. What version control systems have you used (Git, SVN etc.)?
+* What version control systems have you used (Git, SVN etc.)?
