@@ -16,7 +16,7 @@ Choosing a few items from this list should help you vet the intended skills you 
 **Note:** Keep in mind that many of these questions are open ended and could lead to interesting discussions that tell 
 you more about the person's capabilities than a straight answer would.
 
-##Original Contributors
+##Contributors
 
 * [@travisvandame](http://www.twitter.com/travisvandame) - http://www.leandertechnologies.com
 
