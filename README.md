@@ -51,7 +51,7 @@ array_push($array, 1);
 array_push($array, 2);
 ```
 Question: What is the value of count($array);
-**Answer: `2`
+**Answer: `2`**
 
 ## ASP .NET Specific Questions
 
