@@ -30,3 +30,8 @@ you more about the person's capabilities than a straight answer would.
 
 ### Language
 * C#
+
+## Database Specific Questions
+* MySQL
+* PostgreSQL
+* SQL Server
