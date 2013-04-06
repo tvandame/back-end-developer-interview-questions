@@ -35,13 +35,13 @@ Question: What value is returned from the above statement?
 **Answer: 3**
 
 ```php
-var $strText = "i'm a lasagna hog";
-var $strTmp = split("", $strText);
-$strTmp = strrev(stTmp);
-$strTmp = join("",$strTmp);
-echo $strTmp;
+$strText = "i'm a lasagna hog";
 
-"i'm a lasagna hog".split("").reverse().join("");
+$strTmp = explode(" ", $strText);
+$strTmp = array_reverse($strTmp);
+$strTmp = join("",$strTmp);
+
+echo($strTmp);
 ```
 Question: What value is returned from the above statement? 
 **Answer: "goh angasal a m'i"**
