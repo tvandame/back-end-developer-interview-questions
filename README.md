@@ -27,7 +27,7 @@ you more about the person's capabilities than a straight answer would.
 
 ## PHP Specific Questions
 
-### PHP Code Questions:
+### PHP Code Examples:
 ```php
 floor(3.14)
 ```
