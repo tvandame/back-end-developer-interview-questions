@@ -29,7 +29,7 @@ you more about the person's capabilities than a straight answer would.
 
 ### PHP Code Questions:
 ```php
-~~3.14
+floor(3.14)
 ```
 Question: What value is returned from the above statement? 
 **Answer: 3**
