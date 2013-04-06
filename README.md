@@ -25,6 +25,12 @@ you more about the person's capabilities than a straight answer would.
 * What version control systems have you used (Git, SVN etc.)?
 * What is your preferred development environment? (OS, Editor, Browsers, Tools etc.)
 * Explain how Object inheritance works. [Answer](http://php.net/manual/en/language.oop5.inheritance.php)
+* Describe inheritance patterns in PHP.
+* How do you go about testing your PHP?
+* What PHP API Client Libraries have you used?
+* Have you ever looked at the source code of the libraries/frameworks you use?
+* How do you organize your code?
+* When do you optimize your code?
 
 ## PHP Specific Questions
 
