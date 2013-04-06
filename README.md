@@ -26,8 +26,8 @@ you more about the person's capabilities than a straight answer would.
 
 ## PHP
 
-### MYSQL - [_Offical Website_](http://www.mysql.org/)
-### PostgreSQL - [_Offical Website_](http://www.postgresql.org/)
+### MYSQL - [_Offical Documentation_](http://dev.mysql.com/doc/)
+### PostgreSQL - [_Offical Documentation_](http://www.postgresql.org/docs/manuals/)
 
 ## ASP .NET
 
