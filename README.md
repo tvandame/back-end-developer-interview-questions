@@ -22,12 +22,16 @@ you more about the person's capabilities than a straight answer would.
 
 ##General Questions:
 
+* What did you learn yesterday/this week?
+* What excites or interests you about coding?
 * What version control systems have you used (Git, SVN etc.)?
 * What is your preferred development environment? (OS, Editor, Browsers, Tools etc.)
 * How do you go about testing your PHP?
 * Have you ever looked at the source code of the libraries/frameworks you use?
 * How do you organize your code?
 * When do you optimize your code?
+* If you could master one technology this year what would it be?
+* Explain the importance of standards and standards bodies.
 
 ## PHP Specific Questions
 
