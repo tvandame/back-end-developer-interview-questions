@@ -35,7 +35,8 @@ you more about the person's capabilities than a straight answer would.
 ```php
 floor(3.14)
 ```
-Question: What value is returned from the above statement? 
+Question: What value is returned from the above statement?
+
 **Answer: 3**
 
 ```php
@@ -48,6 +49,7 @@ $strTmp = join("",$strTmp);
 echo $strTmp;
 ```
 Question: What value is returned from the above statement? 
+
 **Answer: "goh angasal a m'i"**
 
 ```PHP
@@ -57,6 +59,7 @@ array_push($array, 1);
 array_push($array, 2);
 ```
 Question: What is the value of count($array);
+
 **Answer: 2**
 
 ```PHP
@@ -80,6 +83,7 @@ alert_a();
 alert_b();
 ```
 Question: What is the outcome of the two alerts above?
+
 **Answer: alert_a() = Hello World, alert_b() = E_NOTICE : type 8 -- Undefined variable: foo -- at line 15 World**
 
 ## Web Services Specific Questions
