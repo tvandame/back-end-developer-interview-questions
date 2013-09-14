@@ -97,7 +97,7 @@ Question: What is the outcome of the two alerts above?
 
 ## HTTP Specific Qustions
 
-## Server Specific Qustions
+## Operating System Specific Qustions
 * Linux/Unix
 * Microsoft
 
