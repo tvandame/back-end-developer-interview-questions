@@ -1,39 +1,37 @@
-Back-End-Developer-Interview-Questions
-======================================
+Back-End Job Interview Questions
+================================
 
-A list of helpful back-end related questions you can use to interview potential candidates. 
+A list of helpful back-end related questions you can use to interview potential candidates.
 Inspired by the git-repo: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions.git and
-[Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish)) 
+[Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish))
 
-|Version    |Detail          |
-|-----------|----------------|
-|1.0.0      |Initial Draft   |
+@Version 1.0.1
 
-This repo contains a number of back-end interview questions that can be used when vetting potential candidates. 
-It is by no means recommended to use every single question here on the same candidate (that would take hours). 
+This repo contains a number of back-end interview questions that can be used when vetting potential candidates.
+It is by no means recommended to use every single question here on the same candidate (that would take hours).
 Choosing a few items from this list should help you vet the intended skills you require.
 
 **Note:** Keep in mind that many of these questions are open ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
 
 ##<a name="toc">Table of Contents</a>
-1. [Contributors](#contributors)
-2. [General questions](#general)
-3. [Specific questions](#specific)
-4. [Code examples](#codeexamples)
-5. [Database specific questions](#databasespecific)
-6. [HTTP specific questions](#httpspecific)
-7. [Operating System specific questions](#osespecific)
-8. [Web Services specific questions](#webservicesespecific)
-9. [Common Server Response Codes specific questions](#csrcspecific)
+* [Contributors](#contributors)
+* [General Questions](#general)
+* [Specific Questions](#specific)
+* [Code examples](#codeexamples)
+* [Database Specific Questions](#databasespecific)
+* [HTTP Specific Questions](#httpspecific)
+* [Operating System Specific Questions](#osespecific)
+* [Web Services Specific Questions](#webservicesespecific)
+	* [Common Server Response Codes Specific Questions](#csrcspecific)
 
-####<a name="contributors">Contributors</a>
+###<a name="contributors">Contributors</a>
 
 * [@travisvandame](http://www.twitter.com/travisvandame)
 * [@jmurowaniecki](http://twitter.com/jmurowaniecki)
 
 **[[⬆]](#toc) return to Table of Contents**
 
-####<a name="general">General Questions</a>
+###<a name="general">General Questions</a>
 
 * What did you learn yesterday/this week?
 * What excites or interests you about coding?
@@ -49,14 +47,17 @@ Choosing a few items from this list should help you vet the intended skills you 
 * What did you learn/know about agile methodology?
 * Do you prefer to work on a team or alone?
 * What's the biggest problem faced on your projects and how did you solve it?
+* How you contribute to the open source community (Github, Bitbucket, IRC, foruns)?
 
 **[[⬆]](#toc) return to Table of Contents**
 
-####<a name="specific">PHP Specific Questions</a>
+###<a name="specific">PHP Specific Questions</a>
+
+* Describe two good uses - and pratices - for callback usage.
 
 **[[⬆]](#toc) return to Table of Contents**
 
-####<a name="codeexamples">PHP Code Examples:</a>
+###<a name="codeexamples">PHP Code Examples:</a>
 
 ```php
 floor(3.14)
@@ -80,16 +81,16 @@ Question: What is the value of `count($array)`? **Answer: 2**
 $foo = "Hello";
 
 function alert_a() {
-  global $foo;
-	
+	global $foo;
+
 	$bar = " World";
-	
+
 	echo ($foo . $bar);
 }
 
-function alert_b() {	
+function alert_b() {
 	$bar = " World";
-	
+
 	echo ($foo . $bar);
 }
 
@@ -100,28 +101,44 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 
 **[[⬆]](#toc) return to Table of Contents**
 
-####<a name="databasespecific">Database Specific Questions</a>
+###<a name="databasespecific">Database Specific Questions</a>
 
-* MySQL
-* PostgreSQL
+* Do you know MySQL?
+	* How to backup data using `mysqldump` and how to restore?
+	* How and when use SQL_CACHE and S_NO_CACHE on your queries?
+	* Question: describe five functions that disable cache on queries and describe why. **Answer: BENCHMARK(), CONNECTION_ID(), CONVERT_TZ(), CURDATE(), CURRENT_DATE(), CURRENT_TIME(), CURRENT_TIMESTAMP(), CURTIME(), DATABASE(), ENCRYPT(), with one parameter FOUND_ROWS(), GET_LOCK(), LAST_INSERT_ID(), LOAD_FILE(), MASTER_POS_WAIT(), NOW(), RAND(), RELEASE_LOCK(), SLEEP(), SYSDATE(), UNIX_TIMESTAMP(), USER(), UUID(), UUID_SHORT()**
+* Do you know PostgreSQL?
+	* How to improve [Resource Consumption](http://www.postgresql.org/docs/current/static/runtime-config-resource.html)?
 * SQL Server
+	* How to migrate from SQL Server to PostgreSQL or MySQL?
+* How to 'hack', build a cluster, improve performance, implement cache, pooling or compile those services from source?
 
 **[[⬆]](#toc) return to Table of Contents**
 
-####<a name="httpspecific">HTTP Specific Questions</a>
+###<a name="httpspecific">HTTP Specific Questions</a>
 
 **[[⬆]](#toc) return to Table of Contents**
 
-####<a name="osespecific">Operating System Specific Questions</a>
+###<a name="osespecific">Operating System Specific Questions</a>
 
-* Linux/Unix
+* Linux/Unix/MacOS
+	* Do you know how to use MacPorts, Aptitude, YUM, RPM and other package managers?
+	* How often you updates the service of its customers?
+	* How you install, configure and handle services such ngynx, apache, squid, samba, etc..?
+	* What do you know about kernel tuning?
+	* What do you know about virtualization?
 * Microsoft
+	* How to remove Windows?
+	* How to install Linux using USB or liveCDs?
+	* How to disable Secure Boot and install Linux?
+	* How are your adaptation to Linux?
 
 **[[⬆]](#toc) return to Table of Contents**
 
-####<a name="webservicesespecific">Web Services Specific Questions</a>
+###<a name="webservicesespecific">Web Services Specific Questions</a>
 
 * Have you created or managed some web service?
+* Question: How technologies do you know? **Answers: XML, SOAP, WSDL, UDDI, WS-i, and more**
 
 **[[⬆]](#toc) return to Table of Contents**
 
@@ -131,7 +148,7 @@ Question: Describe server response code 200. **Answer: ("OK") Evertying went ok.
 
 Question: Describe server response code 201. **Answer: ("Created") A new resource was created at the client's request. The location header should contain a URI to the new resource and the entity-body should contain a represntation of the newly created resource.**
 
-Question: Describe server response code 204. **Answer: ("No Content") The server declined to send back any status message or representation** 
+Question: Describe server response code 204. **Answer: ("No Content") The server declined to send back any status message or representation**
 
 Question: Describe server response code 301. **Answer: ("Moved Permanently") Client triggered an action on the server that caused the URI of a resource to change.**
 
