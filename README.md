@@ -151,13 +151,13 @@ Question: Descibe server response code 500 **Answer: ("Internal Server Error") A
 * Linux/Unix/MacOS
 	* Do you know how to use MacPorts, Aptitude, YUM, RPM and other package managers?
 	* How often you updates the service of its customers?
-	* How you install, configure and handle services such ngynx, apache, squid, samba, etc..?
+	* How would you install, configure and handle services such ngynx, apache, squid, samba, etc..?
 	* What do you know about kernel tuning?
 	* What do you know about virtualization?
 * Microsoft
 	* How to remove Windows?
-	* How to install Linux using USB or liveCDs?
-	* How to disable Secure Boot and install Linux?
+	* How would you install Linux using USB or liveCDs?
+	* How would you disable Secure Boot and install Linux?
 	* How are your adaptation to Linux?
 
 **[[⬆]](#toc) return to Table of Contents**
