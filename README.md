@@ -124,8 +124,6 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 * Have you created or managed some web service?
 * Question: How technologies do you know? **Answers: XML, SOAP, WSDL, UDDI, WS-i, and more**
 
-**[[⬆]](#toc) return to Table of Contents**
-
 ####<a name="csrcspecific">Common Server Response Codes</a>
 
 Question: Describe server response code 200. **Answer: ("OK") Evertying went ok. The entity-body, if any, is a representation of some resource.**
