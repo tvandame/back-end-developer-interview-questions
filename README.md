@@ -122,7 +122,7 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 ###<a name="webservicesespecific">Web Services Specific Questions</a>
 
 * Have you created or managed some web service?
-* Question: How technologies do you know? **Answers: XML, SOAP, WSDL, UDDI, WS-i, and more**
+* What web service protocals do you know?
 
 ####<a name="csrcspecific">Common Server Response Codes</a>
 
