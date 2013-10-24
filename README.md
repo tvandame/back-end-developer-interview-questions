@@ -119,22 +119,6 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 
 **[[⬆]](#toc) return to Table of Contents**
 
-###<a name="osespecific">Operating System Specific Questions</a>
-
-* Linux/Unix/MacOS
-	* Do you know how to use MacPorts, Aptitude, YUM, RPM and other package managers?
-	* How often you updates the service of its customers?
-	* How you install, configure and handle services such ngynx, apache, squid, samba, etc..?
-	* What do you know about kernel tuning?
-	* What do you know about virtualization?
-* Microsoft
-	* How to remove Windows?
-	* How to install Linux using USB or liveCDs?
-	* How to disable Secure Boot and install Linux?
-	* How are your adaptation to Linux?
-
-**[[⬆]](#toc) return to Table of Contents**
-
 ###<a name="webservicesespecific">Web Services Specific Questions</a>
 
 * Have you created or managed some web service?
@@ -161,5 +145,21 @@ Question: Descibe server response code 404. **Answer: ("Not Found") Client reque
 Question: Describe server response code 409. **Answer: ("Conflict") Client attempted to put the servers resource into a impossable or inconsistant state.**
 
 Question: Descibe server response code 500 **Answer: ("Internal Server Error") A problem occured on the server side. The entity-body, if any, is a error message.**
+
+**[[⬆]](#toc) return to Table of Contents**
+
+###<a name="osespecific">Operating System Specific Questions</a>
+
+* Linux/Unix/MacOS
+	* Do you know how to use MacPorts, Aptitude, YUM, RPM and other package managers?
+	* How often you updates the service of its customers?
+	* How you install, configure and handle services such ngynx, apache, squid, samba, etc..?
+	* What do you know about kernel tuning?
+	* What do you know about virtualization?
+* Microsoft
+	* How to remove Windows?
+	* How to install Linux using USB or liveCDs?
+	* How to disable Secure Boot and install Linux?
+	* How are your adaptation to Linux?
 
 **[[⬆]](#toc) return to Table of Contents**
