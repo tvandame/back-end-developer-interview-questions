@@ -23,11 +23,13 @@ Choosing a few items from this list should help you vet the intended skills you 
 * [Operating System Specific Questions](#osespecific)
 * [Web Services Specific Questions](#webservicesespecific)
 	* [Common Server Response Codes Specific Questions](#csrcspecific)
+* [Network Specific Questions](#networkspecific)
 
 ###<a name="contributors">Contributors</a>
 
 * [@travisvandame](http://www.twitter.com/travisvandame)
 * [@jmurowaniecki](http://twitter.com/jmurowaniecki)
+* [@toothpaste_](http://twitter.com/toothpaste_)
 
 **[[⬆]](#toc) return to Table of Contents**
 
@@ -103,6 +105,10 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 
 ###<a name="databasespecific">Database Specific Questions</a>
 
+* General SQL
+	* What is the difference between a View and a Table?
+	* What does the HAVING clause do?
+	* How do you choose a column to be indexed?
 * Do you know MySQL?
 	* How would you backup and restore data using `mysqldump` from the command line?
 	* When should you use SQL_CACHE and S_NO_CACHE on your queries?
@@ -116,6 +122,11 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 **[[⬆]](#toc) return to Table of Contents**
 
 ###<a name="httpspecific">HTTP Specific Questions</a>
+
+* What happens between the time you enter a URL in your browser until you see the page that you requested?
+* How does the 3-way TCP handshake occur when you request a page from a server?
+* What are the contents of an HTTP request header? Response header?
+* What is the difference between HTTP and HTTPS?
 
 **[[⬆]](#toc) return to Table of Contents**
 
@@ -159,5 +170,17 @@ Question: Descibe server response code 500 **Answer: ("Internal Server Error") A
 	* How would you install Linux using USB or liveCDs?
 	* How would you disable Secure Boot and install Linux?
 	* How are your adaptation to Linux?
+
+**[[⬆]](#toc) return to Table of Contents**
+
+###<a name="networkspecific">Network Specific Questions</a>
+
+* What are the 7 layers of the OSI model?
+* What are some advantages of CDNs? Disadvantages?
+* What is a reverse proxy?
+* What ports do the following use?
+	* HTTP
+	* HTTPS
+	* SSH
 
 **[[⬆]](#toc) return to Table of Contents**
