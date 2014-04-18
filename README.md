@@ -30,7 +30,7 @@ Choosing a few items from this list should help you vet the intended skills you 
 * [@travisvandame](http://twitter.com/travisvandame)
 * [@jmurowaniecki](http://twitter.com/jmurowaniecki)
 * [@toothpaste_](http://twitter.com/toothpaste_)
-* [@emanuelsaringan]
+* [@emanuelsaringan](http://twitter.com/emanuelsaringan)
 
 **[[⬆]](#toc) return to Table of Contents**
 
