@@ -27,9 +27,10 @@ Choosing a few items from this list should help you vet the intended skills you 
 
 ###<a name="contributors">Contributors</a>
 
-* [@travisvandame](http://www.twitter.com/travisvandame)
+* [@travisvandame](http://twitter.com/travisvandame)
 * [@jmurowaniecki](http://twitter.com/jmurowaniecki)
 * [@toothpaste_](http://twitter.com/toothpaste_)
+* [@emanuelsaringan]
 
 **[[⬆]](#toc) return to Table of Contents**
 
