@@ -29,8 +29,7 @@ Choosing a few items from this list should help you vet the intended skills you 
 
 * [@travisvandame](http://twitter.com/travisvandame)
 * [@jmurowaniecki](http://twitter.com/jmurowaniecki)
-* [@toothpaste_](http://twitter.com/toothpaste_)
-* [@emanuelsaringan](http://twitter.com/emanuelsaringan)
+* [@emanuelsaringan](http://lambdageek.com)
 
 **[[⬆]](#toc) return to Table of Contents**
 
@@ -119,6 +118,7 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 * SQL Server
 	* How would you migrate from SQL Server to PostgreSQL or MySQL?
 * Do you know How to 'hack', build a cluster, improve performance, implement cache, pooling or compile those services from source?
+* Are you familiar with NoSQL databases?
 
 **[[⬆]](#toc) return to Table of Contents**
 
@@ -128,6 +128,7 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 * How does the 3-way TCP handshake occur when you request a page from a server?
 * What are the contents of an HTTP request header? Response header?
 * What is the difference between HTTP and HTTPS?
+* How would you design a URL shortener similar to bit.ly?
 
 **[[⬆]](#toc) return to Table of Contents**
 
@@ -166,6 +167,7 @@ Question: Descibe server response code 500 **Answer: ("Internal Server Error") A
 	* How would you install, configure and handle services such ngynx, apache, squid, samba, etc..?
 	* What do you know about kernel tuning?
 	* What do you know about virtualization?
+	* What is the difference between threads and processes?
 * Microsoft
 	* How to remove Windows?
 	* How would you install Linux using USB or liveCDs?
