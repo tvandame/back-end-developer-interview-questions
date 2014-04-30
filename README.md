@@ -16,8 +16,8 @@ Choosing a few items from this list should help you vet the intended skills you 
 ##<a name="toc">Table of Contents</a>
 * [Contributors](#contributors)
 * [General Questions](#general)
-* [Specific Questions](#specific)
-* [Code examples](#codeexamples)
+* [PHP Specific Questions](#specific)
+* [PHP Code examples](#codeexamples)
 * [Database Specific Questions](#databasespecific)
 * [HTTP Specific Questions](#httpspecific)
 * [Operating System Specific Questions](#osespecific)
@@ -53,13 +53,13 @@ Choosing a few items from this list should help you vet the intended skills you 
 
 **[[⬆]](#toc) return to Table of Contents**
 
-###<a name="specific">PHP Specific Questions</a>
+###<a name="phpspecific">PHP Specific Questions</a>
 
 * Describe two good uses - and pratices - for callback usage.
 
 **[[⬆]](#toc) return to Table of Contents**
 
-###<a name="codeexamples">PHP Code Examples:</a>
+###<a name="phpcodeexamples">PHP Code Examples:</a>
 
 ```php
 floor(3.14)
