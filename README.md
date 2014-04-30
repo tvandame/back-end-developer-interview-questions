@@ -20,9 +20,9 @@ Choosing a few items from this list should help you vet the intended skills you 
 	* [MVC Specific Questions](#mvcspecific)
 	* [MVVM Specific Questions](#mvvmspecific)
 	* [Repository Specific Questions](#repospecific)
+	* [Dependency Injection Specific Questions](#dispecific) 
 * [PHP Code examples](#phpcodeexamples)
 * [PHP Specific Questions](#phpspecific)
-* [Dependency Injection Specific Questions](#dispecific) 
 * [Database Specific Questions](#databasespecific)
 * [ORM Specific Questions](#ormspecific)
 * [HTTP Specific Questions](#httpspecific)
@@ -110,10 +110,6 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 ###<a name="phpspecific">PHP Specific Questions</a>
 
 * Describe two good uses - and pratices - for callback usage.
-
-**[[⬆]](#toc) return to Table of Contents**
-
-###<a name="dispecific">Dependency Injection Specific Questions</a>
 
 **[[⬆]](#toc) return to Table of Contents**
 
