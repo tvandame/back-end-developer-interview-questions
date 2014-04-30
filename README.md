@@ -16,9 +16,15 @@ Choosing a few items from this list should help you vet the intended skills you 
 ##<a name="toc">Table of Contents</a>
 * [Contributors](#contributors)
 * [General Questions](#general)
-* [PHP Specific Questions](#specific)
-* [PHP Code examples](#codeexamples)
+* [Design Pattern Specific Questions](#dpspecific)
+	* [MVC Specific Questions](#mvcspecific)
+	* [MVVM Specific Questions](#mvvmspecific)
+	* [Repository Specific Questions](#repospecific)
+* [PHP Code examples](#phpcodeexamples)
+* [PHP Specific Questions](#phpspecific)
+* [Dependency Injection Specific Questions](#dispecific) 
 * [Database Specific Questions](#databasespecific)
+* [ORM Specific Questions](#ormspecific)
 * [HTTP Specific Questions](#httpspecific)
 * [Operating System Specific Questions](#osespecific)
 * [Web Services Specific Questions](#webservicesespecific)
@@ -53,9 +59,7 @@ Choosing a few items from this list should help you vet the intended skills you 
 
 **[[⬆]](#toc) return to Table of Contents**
 
-###<a name="phpspecific">PHP Specific Questions</a>
-
-* Describe two good uses - and pratices - for callback usage.
+###<a name="dpspecific">Design Pattern Specific Questions</a>
 
 **[[⬆]](#toc) return to Table of Contents**
 
@@ -103,6 +107,16 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 
 **[[⬆]](#toc) return to Table of Contents**
 
+###<a name="phpspecific">PHP Specific Questions</a>
+
+* Describe two good uses - and pratices - for callback usage.
+
+**[[⬆]](#toc) return to Table of Contents**
+
+###<a name="dispecific">Dependency Injection Specific Questions</a>
+
+**[[⬆]](#toc) return to Table of Contents**
+
 ###<a name="databasespecific">Database Specific Questions</a>
 
 * General SQL
@@ -129,6 +143,10 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 * What are the contents of an HTTP request header? Response header?
 * What is the difference between HTTP and HTTPS?
 * How would you design a URL shortener similar to bit.ly?
+
+**[[⬆]](#toc) return to Table of Contents**
+
+###<a name="ormspecific">ORM Specific Questions</a>
 
 **[[⬆]](#toc) return to Table of Contents**
 
