@@ -20,7 +20,7 @@ Choosing a few items from this list should help you vet the intended skills you 
 	* [MVC](#mvcspecific)
 	* [MVVM](#mvvmspecific)
 	* [Repository](#repospecific)
-	* [Dependency](#dispecific)
+	* [Dependency Injection](#dispecific)
 	* [Visitor](#vspecific)
 * [PHP Code examples](#phpcodeexamples)
 * [PHP Specific Questions](#phpspecific)
