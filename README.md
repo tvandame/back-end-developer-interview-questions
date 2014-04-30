@@ -178,7 +178,7 @@ Question: Descibe server response code 500 **Answer: ("Internal Server Error") A
 
 * Linux/Unix/MacOS
 	* Do you know how to use MacPorts, Aptitude, YUM, RPM and other package managers?
-	* How often you updates the service of its customers?
+	* How often do you update running services?
 	* How would you install, configure and handle services such ngynx, apache, squid, samba, etc..?
 	* What do you know about kernel tuning?
 	* What do you know about virtualization?
@@ -187,7 +187,7 @@ Question: Descibe server response code 500 **Answer: ("Internal Server Error") A
 	* How to remove Windows?
 	* How would you install Linux using USB or liveCDs?
 	* How would you disable Secure Boot and install Linux?
-	* How are your adaptation to Linux?
+	* How would you migrate from windows to Linux?
 
 **[[⬆]](#toc) return to Table of Contents**
 
