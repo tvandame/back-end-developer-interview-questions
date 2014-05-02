@@ -62,6 +62,13 @@ Choosing a few items from this list should help you vet the intended skills you 
 
 ###<a name="dpspecific">Design Pattern Specific Questions</a>
 
+* <a name="mvcspecific">MVC</a>
+* <a name="mvvmspecific">MVVM</a>
+* <a name="repospecific">Repository</a>
+* <a name="dispecific">Dependency Injection</a>
+* <a name="vspecific">Visitor</a>
+    * The classes and/or objects participating in this pattern are? **Answer: Visitor, ConcreteVisitor, Element, ConcreteElement, ObjectStructure** 
+
 **[[⬆]](#toc) return to Table of Contents**
 
 ###<a name="phpcodeexamples">PHP Code Examples:</a>
