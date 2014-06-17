@@ -56,7 +56,7 @@ Choosing a few items from this list should help you vet the intended skills you 
 * What did you learn/know about agile methodology?
 * Do you prefer to work on a team or alone?
 * What's the biggest problem faced on your projects and how did you solve it?
-* How you contribute to the open source community (Github, Bitbucket, IRC, foruns)?
+* How you contribute to the open source community (Github, Bitbucket, IRC, forums)?
 
 **[[⬆]](#toc) return to Table of Contents**
 
