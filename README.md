@@ -164,7 +164,7 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 
 Question: Describe server response code 200. **Answer: ("OK") Evertying went ok. The entity-body, if any, is a representation of some resource.**
 
-Question: Describe server response code 201. **Answer: ("Created") A new resource was created at the client's request. The location header should contain a URI to the new resource and the entity-body should contain a represntation of the newly created resource.**
+Question: Describe server response code 201. **Answer: ("Created") A new resource was created at the client's request. The location header should contain a URI to the new resource and the entity-body should contain a representation of the newly created resource.**
 
 Question: Describe server response code 204. **Answer: ("No Content") The server declined to send back any status message or representation**
 
