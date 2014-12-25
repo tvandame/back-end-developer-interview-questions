@@ -187,7 +187,7 @@ Question: Descibe server response code 500 **Answer: ("Internal Server Error") A
 * Linux/Unix/MacOS
 	* Do you know how to use MacPorts, Aptitude, YUM, RPM and other package managers?
 	* How often do you update running services?
-	* How would you install, configure and handle services such ngynx, apache, squid, samba, etc..?
+	* How would you install, configure and handle services such nginx, apache, squid, samba, etc..?
 	* What do you know about kernel tuning?
 	* What do you know about virtualization?
 	* What is the difference between threads and processes?
