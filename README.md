@@ -64,6 +64,7 @@ Choosing a few items from this list should help you vet the intended skills you 
 ###<a name="dpspecific">Design Pattern Specific Questions</a>
 
 * <a name="mvcspecific">MVC</a>
+    * Question: In the MVC design pattern what's M stands for? **Answer: M stands for Model, it is the data and data-management of the application.** 
 * <a name="mvvmspecific">MVVM</a>
 * <a name="repospecific">Repository</a>
 * <a name="dispecific">Dependency Injection</a>
