@@ -9,7 +9,7 @@
 
 ##한국어 번역
 
-@DevSusu
+* [@DevSusu](https://github.com/DevSusu)
 
 ##<a name="toc">목차</a>
 * [기여자](#contributors)
@@ -126,46 +126,28 @@ alert_b();
 	* 뷰와 테이블의 차이점이 무엇인가?
 	* HAVING 문이 하는 일이 무엇인가?
 	* 인덱싱할 열을 어떻게 선택하는가?
-* General SQL
-	* What is the difference between a View and a Table?
-	* What does the HAVING clause do?
-	* How do you choose a column to be indexed?
 * MySQL 관련 질문
 	* 당신은 어떻게 커맨드 라인을 사용하여 mysqldump로부터 데이터를 백업하고 복구하겠는가?
 	* 어떤 상황에서 SQL_CACHE와 S_NO_CACHE를 쿼리에서 쓸 것인가?
 	* 질문: 캐시를 불활성화하는 5개의 함수를 설명하고 왜 그런지도 설명하라.
 		**답변: BENCHMARK(), CONNECTION_ID(), CONVERT_TZ(), CURDATE(), CURRENT_DATE(), CURRENT_TIME(), CURRENT_TIMESTAMP(), CURTIME(), DATABASE(), ENCRYPT(), with one parameter FOUND_ROWS(), GET_LOCK(), LAST_INSERT_ID(), LOAD_FILE(), MASTER_POS_WAIT(), NOW(), RAND(), RELEASE_LOCK(), SLEEP(), SYSDATE(), UNIX_TIMESTAMP(), USER(), UUID(), UUID_SHORT()**
-* Do you know MySQL?
-	* How would you backup and restore data using `mysqldump` from the command line?
-	* When should you use SQL_CACHE and S_NO_CACHE on your queries?
-	* Question: describe five functions that disable cache on queries and describe why. **Answer: BENCHMARK(), CONNECTION_ID(), CONVERT_TZ(), CURDATE(), CURRENT_DATE(), CURRENT_TIME(), CURRENT_TIMESTAMP(), CURTIME(), DATABASE(), ENCRYPT(), with one parameter FOUND_ROWS(), GET_LOCK(), LAST_INSERT_ID(), LOAD_FILE(), MASTER_POS_WAIT(), NOW(), RAND(), RELEASE_LOCK(), SLEEP(), SYSDATE(), UNIX_TIMESTAMP(), USER(), UUID(), UUID_SHORT()**
 * PostgreSQL 관련 질문
 	* [리소스 소비](http://www.postgresql.org/docs/current/static/runtime-config-resource.html)를 어떻게 개선시키는가?
-* Do you know PostgreSQL?
-	* How do you improve [Resource Consumption](http://www.postgresql.org/docs/current/static/runtime-config-resource.html)?
 * SQL 서버
 	* 어떻게 SQL 서버를 PostgreSQL이나 MySQL로 이전하겠는가?
-* SQL Server
-	* How would you migrate from SQL Server to PostgreSQL or MySQL?
 * 추후에 번역 추가하도록 하겠습니다.
 * Do you know How to 'hack', build a cluster, improve performance, implement cache, pooling or compile those services from source?
 * NoSQL 데이터베이스에 대해서 얼마나 아는가?
-* Are you familiar with NoSQL databases?
 
 **[[⬆]](#toc) 목차로 되돌아가기**
 
 ###<a name="httpspecific">HTTP 관련 질문</a>
 
 * 브라우저에 URL을 입력하고 요청한 페이지를 볼때까지 어떤 일이 일어나는가?
-* What happens between the time you enter a URL in your browser until you see the page that you requested?
 * 서버에 페이지를 요청했을때 TCP 3-way handshake가 어떻게 일어나는가?
-* How does the 3-way TCP handshake occur when you request a page from a server?
 * HTTP 요청과 응답 헤더에 어떤 내용이 들어가는가?
-* What are the contents of an HTTP request header? Response header?
 * HTTP와 HTTPS 프로토콜의 차이점은 무엇인가?
-* What is the difference between HTTP and HTTPS?
 * URL 축약서비스를 어떻게 설계하겠는가?
-* How would you design a URL shortener similar to bit.ly?
 
 **[[⬆]](#toc) 목차로 되돌아가기**
 
@@ -176,58 +158,56 @@ alert_b();
 ###<a name="webservicesespecific">웹 서비스 관련 질문</a>
 
 * 웹 서비스를 개발하거나 운영해본 경험이 있습니까?
-* Have you created or managed some web service?
 * 어떤 웹 서비스 프로토콜을 알고 있습니까?
-* What web service protocals do you know?
 
-####<a name="csrcspecific">Common Server Response Codes</a>
+####<a name="csrcspecific">대표적 서버 응답 코드</a>
 
-Question: Describe server response code 200. **Answer: ("OK") Evertying went ok. The entity-body, if any, is a representation of some resource.**
+질문: 서버 응답 코드 200에 대해서 설명하라. **답변: ("OK") 모든 과정이 잘 처리되었다. body가 있을 경우 리소스를 표현하는 것이다.**
 
-Question: Describe server response code 201. **Answer: ("Created") A new resource was created at the client's request. The location header should contain a URI to the new resource and the entity-body should contain a representation of the newly created resource.**
+질문: 서버 응답 코드 201에 대해서 설명하라. **답변: ("Created") 새로운 리소스가 생성되었다. location 헤더는 리소스를 가르키는 URI를 포함하고 있어야 하고 body는 새로 생성된 리소스의 대표값을 가진다.
 
-Question: Describe server response code 204. **Answer: ("No Content") The server declined to send back any status message or representation**
+질문: 서버 응답 코드 204에 대해서 설명하라. **답변: ("No Content") 서버가 어떠한 상태 메세지를 보내기를 거부하였다.**
 
-Question: Describe server response code 301. **Answer: ("Moved Permanently") Client triggered an action on the server that caused the URI of a resource to change.**
+질문: 서버 응답 코드 301에 대해서 설명하라. **답변: ("Moved Permanetly") 클라이언트가 리소스의 URI를 바꾸도록 하였다.**
 
-Question: Describe server response code 400. **Answer: ("Bad Request") A problem occured on the client side. The entity-body, if any, is a error message.**
+질문: 서버 응답 코드 400에 대해서 설명하라. **답변: ("Bad Request") 클라이언트에서 문제가 발생했다. body가 에러 메세지이다.**
 
-Quesiton: Describe server response code 401. **Answer: ("Unauthorized") The client faild to provide proper authentication for the requested resource.**
+질문: 서버 응답 코드 401에 대해서 설명하라. **답변: ("Unauthorized") 클라이언트가 요청한 리소스에 대한 적절한 인증 조건을 만족하지 못하였다.**
 
-Question: Descibe server response code 404. **Answer: ("Not Found") Client requested a URI that doesn't map to any resource.**
+질문: 서버 응답 코드 404에 대해서 설명하라. **답변: ("Not Found") 클라이언트가 어떠한 리소스에도 해당하지 않는 URI를 요청했다.**
 
-Question: Describe server response code 409. **Answer: ("Conflict") Client attempted to put the servers resource into a impossable or inconsistant state.**
+질문: 서버 응답 코드 409에 대해서 설명하라. **답변: ("Conflict") 클라이언트가 서버의 리소스를 접근 불가능하거나 동기화되지 않은 상태로 바꾸려고 하였다.**
 
-Question: Descibe server response code 500 **Answer: ("Internal Server Error") A problem occured on the server side. The entity-body, if any, is a error message.**
+질문: 서버 응답 코드 500에 대해서 설명하라. **답변: ("Internal Server Error") 서버에서 문제가 발생하였다. body는 에러 메세지이다.**
 
-**[[⬆]](#toc) return to Table of Contents**
+**[[⬆]](#toc) 목차로 되돌아가기**
 
-###<a name="osespecific">Operating System Specific Questions</a>
+###<a name="osespecific">운영체제 관련 질문</a>
 
 * Linux/Unix/MacOS
-	* Do you know how to use MacPorts, Aptitude, YUM, RPM and other package managers?
-	* How often do you update running services?
-	* How would you install, configure and handle services such nginx, apache, squid, samba, etc..?
-	* What do you know about kernel tuning?
-	* What do you know about virtualization?
-	* What is the difference between threads and processes?
+	* MacPorts, Aptitude, YUM, RPM과 같은 패키지 매니저를 쓰는 방법을 아십니까?
+	* 이미 진행되고 있는 서비스를 어떻게 업데이트 합니까?
+	* nginx, apache, squid, samba 와 같은 서비스를 설치하고 설정하며 관리합니까?
+	* 커널 튜닝에 대해 아십니까?
+	* 가상화에 대해서 아십니까?
+	* 프로세스와 쓰레드의 차이점은 무엇입니까?
 * Microsoft
-	* How to remove Windows?
-	* How would you install Linux using USB or liveCDs?
-	* How would you disable Secure Boot and install Linux?
-	* How would you migrate from windows to Linux?
+	* 윈도우를 삭제하는 방법은?
+	* USB나 liveCD를 이용하여 리눅스를 설치하는 방법은?
+	* 어떻게 Secure Boot를 해제하고 리눅스를 설치하겠는가?
+	* 윈도우에서 리눅스로 어떻게 이전하겠는가?
 
-**[[⬆]](#toc) return to Table of Contents**
+**[[⬆]](#toc) 목차로 되돌아가기**
 
-###<a name="networkspecific">Network Specific Questions</a>
+###<a name="networkspecific">네트워크 관련 질문</a>
 
-* What are the 7 layers of the OSI model?
+* OSI 모델의 7 계층은 무엇인가?
+* CDN의 장점과 단점에 대해 설명하시오.
 * What are some advantages of CDNs? Disadvantages?
-* What is a reverse proxy?
-* What ports do the following use?
+* Reverse Proxy가 무엇인가?
+* 아래 프로토콜에 사용되는 포트는?
 	* HTTP
 	* HTTPS
 	* SSH
 
-**[[⬆]](#toc) return to Table of Contents**
-	
+**[[⬆]](#toc) 목차로 되돌아가기**
