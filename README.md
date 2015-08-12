@@ -159,11 +159,11 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 ###<a name="webservicesespecific">Web Services Specific Questions</a>
 
 * Have you created or managed some web service?
-* What web service protocals do you know?
+* What web service protocols do you know?
 
 ####<a name="csrcspecific">Common Server Response Codes</a>
 
-Question: Describe server response code 200. **Answer: ("OK") Evertying went ok. The entity-body, if any, is a representation of some resource.**
+Question: Describe server response code 200. **Answer: ("OK") Everything went ok. The entity-body, if any, is a representation of some resource.**
 
 Question: Describe server response code 201. **Answer: ("Created") A new resource was created at the client's request. The location header should contain a URI to the new resource and the entity-body should contain a representation of the newly created resource.**
 
@@ -171,15 +171,15 @@ Question: Describe server response code 204. **Answer: ("No Content") The server
 
 Question: Describe server response code 301. **Answer: ("Moved Permanently") Client triggered an action on the server that caused the URI of a resource to change.**
 
-Question: Describe server response code 400. **Answer: ("Bad Request") A problem occured on the client side. The entity-body, if any, is a error message.**
+Question: Describe server response code 400. **Answer: ("Bad Request") A problem occurred on the client side. The entity-body, if any, is a error message.**
 
-Quesiton: Describe server response code 401. **Answer: ("Unauthorized") The client faild to provide proper authentication for the requested resource.**
+Question: Describe server response code 401. **Answer: ("Unauthorized") The client failed to provide proper authentication for the requested resource.**
 
-Question: Descibe server response code 404. **Answer: ("Not Found") Client requested a URI that doesn't map to any resource.**
+Question: Describe server response code 404. **Answer: ("Not Found") Client requested a URI that doesn't map to any resource.**
 
-Question: Describe server response code 409. **Answer: ("Conflict") Client attempted to put the servers resource into a impossable or inconsistant state.**
+Question: Describe server response code 409. **Answer: ("Conflict") Client attempted to put the servers resource into a impossible or inconsistent state.**
 
-Question: Descibe server response code 500 **Answer: ("Internal Server Error") A problem occured on the server side. The entity-body, if any, is a error message.**
+Question: Describe server response code 500 **Answer: ("Internal Server Error") A problem occurred on the server side. The entity-body, if any, is a error message.**
 
 **[[⬆]](#toc) return to Table of Contents**
 
