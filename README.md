@@ -119,7 +119,7 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 
 ###<a name="phpspecific">PHP Specific Questions</a>
 
-* Describe two good uses - and pratices - for callback usage.
+* Describe two good uses - and practices - for callback usage.
 
 **[[⬆]](#toc) return to Table of Contents**
 
