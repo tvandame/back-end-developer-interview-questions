@@ -133,6 +133,7 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 	* How would you backup and restore data using `mysqldump` from the command line?
 	* When should you use SQL_CACHE and S_NO_CACHE on your queries?
 	* Question: describe five functions that disable cache on queries and describe why. **Answer: BENCHMARK(), CONNECTION_ID(), CONVERT_TZ(), CURDATE(), CURRENT_DATE(), CURRENT_TIME(), CURRENT_TIMESTAMP(), CURTIME(), DATABASE(), ENCRYPT(), with one parameter FOUND_ROWS(), GET_LOCK(), LAST_INSERT_ID(), LOAD_FILE(), MASTER_POS_WAIT(), NOW(), RAND(), RELEASE_LOCK(), SLEEP(), SYSDATE(), UNIX_TIMESTAMP(), USER(), UUID(), UUID_SHORT()**
+	* Have you tinkered with MySQL server optimization, and if so, what did you do to alleviate what problems?
 * Do you know PostgreSQL?
 	* How do you improve [Resource Consumption](http://www.postgresql.org/docs/current/static/runtime-config-resource.html)?
 * SQL Server
