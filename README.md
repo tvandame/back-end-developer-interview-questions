@@ -43,21 +43,20 @@ Choosing a few items from this list should help you vet the intended skills you 
 
 ###<a name="general">General Questions</a>
 
-* What did you learn yesterday/this week?
-* What excites or interests you about coding?
-* What version control systems have you used (Git, SVN etc.)?
-* What is your preferred development environment? (OS, Editor, Browsers, Tools etc.)
-* How do you go about testing your PHP?
-* Have you ever looked at the source code of the libraries/frameworks you use?
-* How do you organize your code?
-* When do you optimize your code?
-* If you could master one technology this year what would it be?
-* Explain the importance of standards and standards bodies.
-* Explain MVC, HMVC, his differences, goals and cons.
-* What did you learn/know about agile methodology?
-* Do you prefer to work on a team or alone?
-* What's the biggest problem faced on your projects and how did you solve it?
-* How you contribute to the open source community (Github, Bitbucket, IRC, forums)?
+1. What did you learn yesterday/this week?
+2. What excites or interests you about coding?
+3. What version control systems have you used (Git, SVN etc.)?
+4. What is your preferred development environment? (OS, Editor, Browsers, Tools etc.)
+5. How do you go about testing your PHP?
+6. Have you ever looked at the source code of the libraries/frameworks you use?
+7. How do you organize your code?
+8. When do you optimize your code?
+9. If you could master one technology this year what would it be?
+10. Explain the importance of standards and standards bodies.
+11. Explain MVC, HMVC, his differences, goals and cons. What did you learn/know about agile methodology?
+12. Do you prefer to work on a team or alone?
+13. What's the biggest problem faced on your projects and how did you solve it?
+14. How you contribute to the open source community (Github, Bitbucket, IRC, forums)?
 
 **[[⬆]](#toc) return to Table of Contents**
 
