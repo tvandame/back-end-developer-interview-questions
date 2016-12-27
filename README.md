@@ -53,22 +53,23 @@ Choosing a few items from this list should help you vet the intended skills you 
 8. When do you optimize your code?
 9. If you could master one technology this year what would it be?
 10. Explain the importance of standards and standards bodies.
-11. Explain MVC, HMVC, his differences, goals and cons. What did you learn/know about agile methodology?
-12. Do you prefer to work on a team or alone?
-13. What's the biggest problem faced on your projects and how did you solve it?
-14. How you contribute to the open source community (Github, Bitbucket, IRC, forums)?
+11. Explain MVC, HMVC, the differences, goals and cons.
+12. What did you learn/know about agile methodology?
+13. Do you prefer to work on a team or alone?
+14. What's the biggest problem faced on your projects and how did you solve it?
+15. How you contribute to the open source community (Github, Bitbucket, IRC, forums)?
 
 **[[⬆]](#toc) return to Table of Contents**
 
 ###<a name="dpspecific">Design Pattern Specific Questions</a>
 
 * <a name="mvcspecific">MVC</a>
-    * Question: In the MVC design pattern what's M stands for? **Answer: M stands for Model, it is the data and data-management of the application.** 
+    * Question: In the MVC design pattern what's M stands for? **Answer: M stands for Model, it is the data and data-management of the application.**
 * <a name="mvvmspecific">MVVM</a>
 * <a name="repospecific">Repository</a>
 * <a name="dispecific">Dependency Injection</a>
 * <a name="vspecific">Visitor</a>
-    * The classes and/or objects participating in this pattern are? **Answer: Visitor, ConcreteVisitor, Element, ConcreteElement, ObjectStructure** 
+    * The classes and/or objects participating in this pattern are? **Answer: Visitor, ConcreteVisitor, Element, ConcreteElement, ObjectStructure**
 
 **[[⬆]](#toc) return to Table of Contents**
 
