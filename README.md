@@ -13,7 +13,7 @@ Choosing a few items from this list should help you vet the intended skills you 
 
 **Note:** Keep in mind that many of these questions are open ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
 
-##<a name="toc">Table of Contents</a>
+## <a name="toc">Table of Contents</a>
 * [Contributors](#contributors)
 * [General Questions](#general)
 * [Design Pattern Specific Questions](#dpspecific)
@@ -33,7 +33,7 @@ Choosing a few items from this list should help you vet the intended skills you 
 	* [Common Server Response Codes](#csrcspecific)
 * [Network Specific Questions](#networkspecific)
 
-###<a name="contributors">Contributors</a>
+### <a name="contributors">Contributors</a>
 
 * [@travisvandame](http://twitter.com/travisvandame)
 * [@jmurowaniecki](http://twitter.com/jmurowaniecki)
@@ -41,7 +41,7 @@ Choosing a few items from this list should help you vet the intended skills you 
 
 **[[⬆]](#toc) return to Table of Contents**
 
-###<a name="general">General Questions</a>
+### <a name="general">General Questions</a>
 
 1. What did you learn yesterday/this week?
 2. What excites or interests you about coding?
@@ -60,7 +60,7 @@ Choosing a few items from this list should help you vet the intended skills you 
 
 **[[⬆]](#toc) return to Table of Contents**
 
-###<a name="dpspecific">Design Pattern Specific Questions</a>
+### <a name="dpspecific">Design Pattern Specific Questions</a>
 
 * <a name="mvcspecific">MVC</a>
     * Question: In the MVC design pattern what's M stands for? **Answer: M stands for Model, it is the data and data-management of the application.** 
@@ -72,7 +72,7 @@ Choosing a few items from this list should help you vet the intended skills you 
 
 **[[⬆]](#toc) return to Table of Contents**
 
-###<a name="phpcodeexamples">PHP Code Examples:</a>
+### <a name="phpcodeexamples">PHP Code Examples:</a>
 
 ```php
 floor(3.14)
@@ -122,7 +122,7 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 
 **[[⬆]](#toc) return to Table of Contents**
 
-###<a name="databasespecific">Database Specific Questions</a>
+### <a name="databasespecific">Database Specific Questions</a>
 
 * General SQL
 	* What is the difference between a View and a Table?
@@ -142,7 +142,7 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 
 **[[⬆]](#toc) return to Table of Contents**
 
-###<a name="httpspecific">HTTP Specific Questions</a>
+### <a name="httpspecific">HTTP Specific Questions</a>
 
 * What happens between the time you enter a URL in your browser until you see the page that you requested?
 * How does the 3-way TCP handshake occur when you request a page from a server?
@@ -152,16 +152,16 @@ Question: What is the outcome of the two alerts above? **Answer: alert_a() = Hel
 
 **[[⬆]](#toc) return to Table of Contents**
 
-###<a name="ormspecific">ORM Specific Questions</a>
+### <a name="ormspecific">ORM Specific Questions</a>
 
 **[[⬆]](#toc) return to Table of Contents**
 
-###<a name="webservicesespecific">Web Services Specific Questions</a>
+### <a name="webservicesespecific">Web Services Specific Questions</a>
 
 * Have you created or managed some web service?
 * What web service protocols do you know?
 
-####<a name="csrcspecific">Common Server Response Codes</a>
+#### <a name="csrcspecific">Common Server Response Codes</a>
 
 Question: Describe server response code 200. **Answer: ("OK") Everything went ok. The entity-body, if any, is a representation of some resource.**
 
@@ -183,7 +183,7 @@ Question: Describe server response code 500 **Answer: ("Internal Server Error") 
 
 **[[⬆]](#toc) return to Table of Contents**
 
-###<a name="osespecific">Operating System Specific Questions</a>
+### <a name="osespecific">Operating System Specific Questions</a>
 
 * Linux/Unix/MacOS
 	* Do you know how to use MacPorts, Aptitude, YUM, RPM and other package managers?
@@ -200,7 +200,7 @@ Question: Describe server response code 500 **Answer: ("Internal Server Error") 
 
 **[[⬆]](#toc) return to Table of Contents**
 
-###<a name="networkspecific">Network Specific Questions</a>
+### <a name="networkspecific">Network Specific Questions</a>
 
 * What are the 7 layers of the OSI model?
 * What are some advantages of CDNs? Disadvantages?
