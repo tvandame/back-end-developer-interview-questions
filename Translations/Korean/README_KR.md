@@ -7,11 +7,11 @@
 여기에 있는 모든 문제들은 푸는 것(꽤 많은 시간이 걸릴 것입니다)보다는
 여기서 몇 가지 질문을 골라 자신의 실력을  평가해보는 것이 좋을 것입니다.
 
-##한국어 번역
+## 한국어 번역
 
 * [@DevSusu](https://github.com/DevSusu)
 
-##<a name="toc">목차</a>
+## <a name="toc">목차</a>
 * [기여자](#contributors)
 * [일반 질문](#general)
 * [디자인 패턴 관련 질문](#dpspecific)
@@ -31,7 +31,7 @@
 	* [대표적인 서버 응답 코드](#csrcspecific)
 * [네트워크 관련 질문](#networkspecific)
 
-###<a name="contributors">기여자</a>
+### <a name="contributors">기여자</a>
 
 * [@travisvandame](http://twitter.com/travisvandame)
 * [@jmurowaniecki](http://twitter.com/jmurowaniecki)
@@ -39,7 +39,7 @@
 
 **[[⬆]](#toc) 목차로 되돌아가기**
 
-###<a name="general">일반 질문</a>
+### <a name="general">일반 질문</a>
 
 * 당신은 이번주/어제에 무엇을 배웠습니까?
 * 코딩을 하는데에 당신을 자극하는것이 무엇입니까?
@@ -59,7 +59,7 @@
 
 **[[⬆]](#toc) 목차로 되돌아가기**
 
-###<a name="dpspecific">디자인 패턴 관련 질문</a>
+### <a name="dpspecific">디자인 패턴 관련 질문</a>
 
 * <a name="mvcspecific">MVC</a>
 * <a name="mvvmspecific">MVVM</a>
@@ -70,7 +70,7 @@
 
 **[[⬆]](#toc) 목차로 되돌아가기**
 
-###<a name="phpcodeexamples">PHP 코드 예제:</a>
+### <a name="phpcodeexamples">PHP 코드 예제:</a>
 
 ```php
 floor(3.14)
@@ -114,13 +114,13 @@ alert_b();
 
 **[[⬆]](#toc) 목차로 되돌아가기**
 
-###<a name="phpspecific">PHP 관련 질문</a>
+### <a name="phpspecific">PHP 관련 질문</a>
 
 * 콜백을 쓰는 두 가지 좋은 실례를 설명하시오.
 
 **[[⬆]](#toc) 목차로 되돌아가기**
 
-###<a name="databasespecific">데이터베이스 관련 질문</a>
+### <a name="databasespecific">데이터베이스 관련 질문</a>
 
 * 일반 SQL
 	* 뷰와 테이블의 차이점이 무엇인가?
@@ -141,7 +141,7 @@ alert_b();
 
 **[[⬆]](#toc) 목차로 되돌아가기**
 
-###<a name="httpspecific">HTTP 관련 질문</a>
+### <a name="httpspecific">HTTP 관련 질문</a>
 
 * 브라우저에 URL을 입력하고 요청한 페이지를 볼때까지 어떤 일이 일어나는가?
 * 서버에 페이지를 요청했을때 TCP 3-way handshake가 어떻게 일어나는가?
@@ -151,16 +151,16 @@ alert_b();
 
 **[[⬆]](#toc) 목차로 되돌아가기**
 
-###<a name="ormspecific">ORM 관련 질문</a>
+### <a name="ormspecific">ORM 관련 질문</a>
 
 **[[⬆]](#toc) 목차로 되돌아가기**
 
-###<a name="webservicesespecific">웹 서비스 관련 질문</a>
+### <a name="webservicesespecific">웹 서비스 관련 질문</a>
 
 * 웹 서비스를 개발하거나 운영해본 경험이 있습니까?
 * 어떤 웹 서비스 프로토콜을 알고 있습니까?
 
-####<a name="csrcspecific">대표적 서버 응답 코드</a>
+#### <a name="csrcspecific">대표적 서버 응답 코드</a>
 
 질문: 서버 응답 코드 200에 대해서 설명하라. **답변: ("OK") 모든 과정이 잘 처리되었다. body가 있을 경우 리소스를 표현하는 것이다.**
 
@@ -182,7 +182,7 @@ alert_b();
 
 **[[⬆]](#toc) 목차로 되돌아가기**
 
-###<a name="osespecific">운영체제 관련 질문</a>
+### <a name="osespecific">운영체제 관련 질문</a>
 
 * Linux/Unix/MacOS
 	* MacPorts, Aptitude, YUM, RPM과 같은 패키지 매니저를 쓰는 방법을 아십니까?
@@ -199,7 +199,7 @@ alert_b();
 
 **[[⬆]](#toc) 목차로 되돌아가기**
 
-###<a name="networkspecific">네트워크 관련 질문</a>
+### <a name="networkspecific">네트워크 관련 질문</a>
 
 * OSI 모델의 7 계층은 무엇인가?
 * CDN의 장점과 단점에 대해 설명하시오.
