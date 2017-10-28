@@ -58,6 +58,7 @@ Choosing a few items from this list should help you vet the intended skills you 
 * Do you prefer to work on a team or alone?
 * What's the biggest problem faced on your projects and how did you solve it?
 * How you contribute to the open source community (Github, Bitbucket, IRC, forums)?
+* What do you think about algorithms? An algorithm which you like. Discuss.
 
 **[[⬆]](#toc) return to Table of Contents**
 
